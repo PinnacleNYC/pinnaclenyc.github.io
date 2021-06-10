@@ -80,7 +80,7 @@ h6 {
   font-family: 'Roboto', sans-serif;
   line-height: 1.2;
   margin-bottom:20px;
-  color: #2F362F;
+  color: #ffffff;
 }
 
 h1 {
@@ -110,12 +110,12 @@ h6 {
 h2.section-title{
 	font-size: 36px;
     line-height: 40px;
-    color: #292929;
+    color: #ffffff;
     margin-bottom: 15px;
 }
 
 h2.section-title.grey{
-	color:#ddd;
+	color:rgb(255, 254, 254);
 }
 
 h2.section-title.white{
@@ -127,7 +127,7 @@ p.section-subtitle{
 }
 
 p.section-subtitle.grey{
-	color:#bbb;
+	color:rgb(255, 255, 255);
 }
 
 p.section-subtitle.white{
@@ -174,7 +174,7 @@ iframe {
 }
 
 .section-grey{
-	background: #f2f7f8;
+	background: #fafafa;
 	padding: 70px 0;
 }
 
