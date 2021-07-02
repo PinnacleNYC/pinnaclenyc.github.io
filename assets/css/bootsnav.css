@@ -323,7 +323,7 @@ nav.navbar.bootsnav.navbar-transparent .attr-nav{height:80px;-webkit-transition:
 .fullscreen-search-overlay #fullscreen-search-wrapper #fullscreen-searchform #fullscreen-search-input{min-width:350px;width:100%;background-color:transparent;border:1px solid #fff;text-align:left;font-size:35px;padding:20px;color:#fff;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;}
 .fullscreen-search-overlay #fullscreen-search-wrapper #fullscreen-searchform #fullscreen-search-input:focus{border:1px solid #87907D;outline:none;}
 .fullscreen-search-overlay.fullscreen-search-overlay-show{visibility:visible;opacity:1;}
-.fullscreen-search-overlay{width:100%;height:100%;position:fixed;top:0;left:0;opacity:0;visibility:hidden;background-color:rgba(20, 30, 48, 0.99);text-align:center;-webkit-transition:all ease-in-out .25s;-moz-transition:all ease-in-out .25s;-ms-transition:all ease-in-out .25s;-o-transition:all ease-in-out .25s;transition:all ease-in-out .25s;}
+.fullscreen-search-overlay{width:100%;height:100%;position:fixed;top:0;left:0;opacity:0;visibility:hidden;background-color:steelblue;text-align:center;-webkit-transition:all ease-in-out .25s;-moz-transition:all ease-in-out .25s;-ms-transition:all ease-in-out .25s;-o-transition:all ease-in-out .25s;transition:all ease-in-out .25s;}
 .animate-element,.effect-bg-layer,.fullscreen-search-overlay{-webkit-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);}
 .fullscreen-search-overlay{z-index:9999;}
 .fullscreen-search-overlay .fullscreen-close:link,.fullscreen-search-overlay .fullscreen-close:visited{color:#fff;}
