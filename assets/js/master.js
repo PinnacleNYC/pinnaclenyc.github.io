@@ -90,7 +90,7 @@
 
 				$('.chart-03').easyPieChart({
 					easing: 'easeInQuad',
-					barColor: '#F5325C',
+					barColor: '#87907D',
 					trackColor: '#ffffff',
           scaleColor: false,
 					scaleLength: 2,

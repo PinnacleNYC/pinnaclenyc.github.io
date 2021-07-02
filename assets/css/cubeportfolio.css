@@ -168,8 +168,8 @@
  margin-bottom:0px;text-align:center;background-color:#fff;padding:20px 40px;}
 .cbp-l-filters-alignCenter .cbp-filter-item{/* @editable properties */
  background-color:transparent;color:#141E30;cursor:pointer;font-family:'Montserrat', sans-serif;font-size:16px;position:relative;overflow:visible;margin:0 25px;display:inline-block;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;font-weight:500;}
-.cbp-l-filters-alignCenter .cbp-filter-item:hover{color:#F5325C;opacity:1;}
-.cbp-l-filters-alignCenter .cbp-filter-item.cbp-filter-item-active{color:#F5325C;cursor:default;border-bottom:3px solid #F5325C;opacity:1;}
+.cbp-l-filters-alignCenter .cbp-filter-item:hover{color:#87907D;opacity:1;}
+.cbp-l-filters-alignCenter .cbp-filter-item.cbp-filter-item-active{color:#87907D;cursor:default;border-bottom:3px solid #87907D;opacity:1;}
 .cbp-l-filters-alignCenter .cbp-filter-counter{background-color:transparent;color:#141E30;cursor:pointer;font-family:'Montserrat', sans-serif;font-size:13px;padding:10px 30px;position:relative;overflow:visible;margin:0 5px;display:inline-block;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;border-radius:20px;font-weight:500;border:1px solid transparent;}
 .cbp-l-filters-alignCenter .cbp-filter-counter:before{content:"";position:absolute;bottom:-4px;left:0;right:0;margin:0 auto;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:4px solid #626161;display:none;}
 .cbp-l-filters-alignCenter .cbp-filter-item:hover .cbp-filter-counter:before{display:block;}
